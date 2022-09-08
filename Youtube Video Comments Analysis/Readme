@@ -1,0 +1,2 @@
+In this Project I have performed the sentiment analysis of the comments in the youtube. This code can be used to analyze comments of any youtube video.
+The only change you need to do is get a youtube Data api key for yourself.
