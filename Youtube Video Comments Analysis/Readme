@@ -1,2 +1,1 @@
-In this Project I have performed the sentiment analysis of the comments in the youtube. This code can be used to analyze comments of any youtube video.
-The only change you need to do is get a youtube Data api key for yourself.
+In this Project I have performed the sentiment analysis of the comments in a youtube video of the Viral Ad by CRED. This code can be extended to analyze comments of any youtube video with the help of a youtube Data api key.
