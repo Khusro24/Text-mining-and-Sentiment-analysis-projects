@@ -1,1 +1,15 @@
-In this Project I have performed the sentiment analysis of the comments in a youtube video of the Viral Ad by CRED. This code can be extended to analyze comments of any youtube video with the help of a youtube Data api key.
+In this Project I have performed the sentiment analysis of the comments in a youtube video of the Viral Ad by CRED.    
+
+Analysis includes follwoing:  
+☛ scraping youtube comments using youtube data API  
+☛ Filtering the comments with replies while scraping and storing them in a csv file  
+☛ Performed text-preprocessing tasks using NLTK library  
+☛ Removal of stop words, tokenization, removing hashtags and @mentions from the comments  
+☛ Further cleaning text data by removing hyperlinks,punctuation, pics.  
+☛ performed stemming and lemmatization.  
+☛ Generated a word cloud  
+☛ performed sentiment analysis(positive, negative, neutral) of the comments.  
+☛ performed subjectivity analysis(facts / opinion) of the comments.  
+☛ plotting the results.  
+
+This code can be extended to analyze comments of any youtube video with the help of access to a functional youtube Data api key.  
